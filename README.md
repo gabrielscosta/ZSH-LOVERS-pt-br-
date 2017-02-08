@@ -1,4 +1,4 @@
-# ZSH-LOVERS-pt-br-
+# ZSH-LOVERS-pt-br
 dicas, truques e exemplos para para a Z shell
 
 Seja quando for que olhamos o manual zsh, nos perguntamos por que não há exemplos ou aquelas coisas simples na (shell) vida. A zsh contem muitos recursos, mas não havia manpage com alguns exemplos [como procmailex(5)]. Por isso escrevemos essa manpage.
